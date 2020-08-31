@@ -1,0 +1,13 @@
+hosts:
+    - name: host1
+      port: 90
+      key: my_key
+      objs: 
+        - name: obj2
+          els: ['one', 'two']
+    - name: host2
+      port: 90
+      key: prompt
+      objs: 
+        - name: obj2
+          els: ['one', 'two']
