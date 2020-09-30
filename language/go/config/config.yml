@@ -1,0 +1,7 @@
+name: "hello"
+
+database:
+  connectionUri: "database connection uri"
+
+server:
+  port: 8080
